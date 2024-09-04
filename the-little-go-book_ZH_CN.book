@@ -1,0 +1,66 @@
+author: Karl Seguin
+title: The Little Go Book
+lang: zh_cn
+
+## Output formats
+output.base_path: output/
+# Uncomment and fill to generate files
+# output.html: some_file.html
+output.epub: the-little-go-book_ZH_CN.epub
+# output.pdf: some_file.pdf
+
+# Or uncomment the following to generate PDF, HTML and EPUB files based on this file's name
+# output: [pdf, epub, html]
+
+# Uncomment and fill to set cover image (for EPUB)
+cover: images/cover.jpg
+
+## List of chapters
+- eBook/directory.md
+- eBook/about-this-book.md
+- eBook/introduction.md
+- eBook/getting-started.md
+@- eBook/1.0.md
+- eBook/1.1.md
+- eBook/1.2.md
+- eBook/1.3.md
+- eBook/1.4.md
+- eBook/1.5.md
+- eBook/1.6.md
+- eBook/1.7.md
+- eBook/1.8.md
+- eBook/1.9.md
+@- eBook/2.0.md
+- eBook/2.1.md
+- eBook/2.2.md
+- eBook/2.3.md
+- eBook/2.4.md
+- eBook/2.5.md
+- eBook/2.6.md
+- eBook/2.7.md
+- eBook/2.8.md
+@- eBook/3.0.md
+- eBook/3.1.md
+- eBook/3.2.md
+- eBook/3.3.md
+- eBook/3.4.md
+- eBook/3.5.md
+@- eBook/4.0.md
+- eBook/4.1.md
+- eBook/4.2.md
+- eBook/4.3.md
+@- eBook/5.0.md
+- eBook/5.1.md
+- eBook/5.2.md
+- eBook/5.3.md
+- eBook/5.4.md
+- eBook/5.5.md
+- eBook/5.6.md
+- eBook/5.7.md
+- eBook/5.8.md
+@- eBook/6.0.md
+- eBook/6.1.md
+- eBook/6.2.md
+- eBook/6.3.md
+- eBook/6.4.md
+@- eBook/conclusion.md

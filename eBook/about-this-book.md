@@ -1,5 +1,4 @@
-
-![](/images/cover.jpg)
+![](images/cover.jpg)
 
 # 关于本书
 
